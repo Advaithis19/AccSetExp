@@ -1,0 +1,22 @@
+// data structures
+rsa accumulator
+bitmap + hashmap (worse)
+hashset
+sorted list (worse)
+(ds for permanent storage - 2D bitmap + array)
+
+// workflows to experiment with
+verify membership
+insert
+delete
+
+// range
+[2^7 - 2^20]
+
+// experiments in isolation
+prover time (create membership proof)
+
+// misc
+normal (fetch, produce) vs accum (fetch, produce)
+
+
